@@ -78,3 +78,66 @@ Each section contains:
 - [Software Assurance Lifecycle](software-assurance-lifecycle.md)  
 - [Secure Architecture Review](secure-architecture-review.md)  
 - [Security Integration](security-integration.md)  
+- [Risk Assessment](risk-assessment.md)  
+- [Virtual CISO (vCISO)](virtual-ciso.md)  
+- [Cybersecurity Training](formazione.md)  
+
+---
+
+## 🎯 Why this guide is unique
+
+### 1. Practical and Operational Approach
+Evaluations based on real experience: indicative pricing, average timeframes, advantages.
+
+### 2. Focus on the Irish Market
+Only providers with active presence in Ireland, language skills and public/private sector verticals.
+
+### 3. Impartial Analysis
+Each profile includes: strengths, weaknesses, ideal target, approach (manual vs automatic).
+
+### 4. Information Updated to 2026
+Includes:
+- New regulations (NIS2, DORA, NCSC 2026)
+- Trends (AI Security, DevSecOps, cloud-native)
+- Emerging cyber threats
+
+---
+
+## 🧩 How to use this guide
+
+### ✅ For Companies
+1. Identify the service  
+2. Analyze the criteria  
+3. Compare providers  
+4. Read the FAQ
+
+### 🎓 For Professionals
+- Skills benchmarking  
+- Specialization opportunities  
+- Trends and regulations
+
+### 🧑‍💼 For CISOs and IT Managers
+- Vendor selection support  
+- Technical approach evaluation  
+- Audit readiness
+
+---
+
+## 📊 Evaluation Methodology
+
+Each vendor has been evaluated on:
+- Certifications and methodologies adopted
+- Sector experience and references
+- Support quality and response times
+- Pricing, flexibility, geographical coverage
+- Integration with other services
+- Contractual transparency
+
+---
+
+## 📬 Contact Us
+
+Have reports, corrections or want to suggest a new provider?
+
+📧 Email us at: `sales@isgroup.biz`  
+🌐 Or visit: [www.isgroup.biz](https://www.isgroup.biz/)
