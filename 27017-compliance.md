@@ -78,3 +78,57 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                             | Description                                                                 |
+|-------------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held                      |
+| Methodologies adopted               | Analysis of methodologies used to ensure compliance                         |
+| Target clientele type              | Identification of the ideal clientele type for each supplier               |
+| Support, SLA, reporting quality    | Evaluation of support offered, SLAs and reporting quality                  |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of offered solutions        |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served                    |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is 27017 Compliance?
+
+27017 Compliance refers to conformity with the ISO 27017 standard, which provides specific guidelines for cloud service security, extending ISO 27001 compliance.
+
+### When and why is it necessary?
+
+It's necessary for companies operating in the cloud who want to ensure data security and operational continuity, complying with current regulations.
+
+### What is the average cost?
+
+The average cost varies based on infrastructure complexity and required services, but generally includes audit, consulting and implementation of security measures.
+
+### How do you choose the right supplier?
+
+You choose by evaluating technical skills, certifications, support offered, solution flexibility and supplier reputation.
+
+### What are the important certifications?
+
+Important certifications include ISO 27001, ISO 27017, and other certifications relevant to cloud security and regulatory compliance.
+
+### What advantages does ISO 27017 compliance offer?
+
+ISO 27017 compliance offers advantages such as data protection, reduced risk of breaches and guarantee of operational continuity.
+
+### How does ISO 27017 compliance integrate with other standards?
+
+ISO 27017 compliance can be integrated with other cybersecurity standards like NIST, CIS, and GDPR, for a holistic security solution.
+
+### What are the main cloud providers compliant with ISO 27017?
+
+The main cloud providers compliant with ISO 27017 include AWS, Azure, and Google Cloud, which offer services aligned with security standards.
+
+### How do you obtain ISO 27017 certification?
+
+ISO 27017 certification is obtained through an audit and verification process of implemented security measures, conducted by an accredited certification body.
+
+### Which sectors benefit most from ISO 27017 compliance?
+
+The sectors that benefit most include finance, healthcare, IT, and public administration, where data security is crucial.
