@@ -78,3 +78,54 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 ---
 
 ## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.       |
+| Adopted methodologies           | Analysis of methodologies used to ensure compliance.            |
+| Target clientele type  | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.   |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.         |
+
+## Frequently Asked Questions (FAQ)
+
+### What is 27018 Compliance?
+
+27018 Compliance is an international standard for protecting personal data in the cloud, providing guidelines for managing personally identifiable information (PII).
+
+### When and why is it necessary?
+
+It is necessary for companies operating in the cloud and managing personal data, to ensure PII protection and compliance with privacy regulations.
+
+### What is the average cost?
+
+The average cost varies based on infrastructure complexity and required services, but generally includes audit, consulting and implementation of security measures.
+
+### How do you choose the right provider?
+
+Choosing the right provider involves evaluating technical skills, methodologies, support offered and reputation in the sector.
+
+### What are the important certifications?
+
+Important certifications include ISO/IEC 27001, ISO/IEC 27018, SOC 2 and other relevant regulations such as GDPR and FedRAMP.
+
+### What advantages does Code 27018 compliance offer?
+
+Code 27018 compliance offers advantages such as personal data protection, transparency in processing and a competitive advantage in the cloud market.
+
+### How to ensure data security in the cloud?
+
+By implementing advanced security measures, data encryption and rigorous access controls, it is possible to ensure data security in the cloud.
+
+### What are the risks of not being compliant?
+
+Risks include legal sanctions, loss of customer trust and damage to corporate reputation.
+
+### How is ISO 27018 compliance integrated with other regulations?
+
+ISO 27018 compliance can be integrated with other regulations such as GDPR and ISO/IEC 27001 to ensure comprehensive data protection.
+
+### What tools can help with compliance?
+
+Automation, audit and continuous monitoring tools can help maintain compliance and promptly detect any violations.
