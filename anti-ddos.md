@@ -78,3 +78,51 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 
 | Criterion                        | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications held.     |
+| Adopted methodologies            | Analysis of methodologies used for Anti-DDoS protection.           |
+| Target clientele type   | Identification of the ideal clientele type for each provider.         |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of pricing models, flexibility and scalability of solutions. |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.       |
+
+## Frequently Asked Questions (FAQ)
+
+### What is an Anti-DDoS service?
+
+An Anti-DDoS service is a solution designed to protect IT infrastructures from DDoS attacks, which aim to overload servers and disrupt online services.
+
+### When and why is it necessary?
+
+It is necessary when a company wants to guarantee operational continuity and protect its online services from interruptions caused by DDoS attacks.
+
+### What is the average cost?
+
+The average cost varies based on infrastructure complexity and required protection level, with flexible and competitive pricing models available.
+
+### How do you choose the right provider?
+
+You choose by evaluating technical competencies, certifications, support offered, price flexibility and provider reputation.
+
+### What are the important certifications?
+
+Important certifications include ISO 9001, ISO/IEC 27001 and other sector-specific certifications that guarantee quality and security of offered services.
+
+### What are the advantages of a cloud-based Anti-DDoS service?
+
+Cloud-based Anti-DDoS services offer scalability, global coverage and ease of management, reducing complexity and implementation times.
+
+### How does an Anti-DDoS service integrate with existing infrastructure?
+
+Compatibility verification with existing infrastructure ensures a smooth transition without interruptions, with customizable solutions to adapt to different needs.
+
+### What protection levels are available?
+
+Anti-DDoS services offer customizable protection levels, adaptable to different types of applications and infrastructures, guaranteeing comprehensive defense.
+
+### How is the effectiveness of an Anti-DDoS service measured?
+
+Effectiveness is measured through clear metrics and detailed reporting, providing visibility and control over security and operational continuity.
+
+### What are the future trends in the Anti-DDoS sector?
+
+Future trends include the use of machine learning and artificial intelligence to automatically detect and mitigate DDoS attacks, improving resilience and effectiveness of solutions.
