@@ -78,3 +78,31 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 
 | Criterion                        | Description                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications held.       |
+| Adopted methodologies           | Analysis of methodologies used for cloud security assessment.       |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.    |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.          |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Cloud Security Assessment?
+
+Cloud Security Assessment is a process of evaluating the security of cloud infrastructures, aimed at identifying vulnerabilities, misconfigurations and security risks.
+
+### When and why is it necessary?
+
+It is necessary when you want to ensure data security and operational continuity, especially in regulated or complex environments.
+
+### What is the average cost?
+
+The average cost varies based on the complexity of the environment and the services required, but generally adapts to the budget and specific needs of the company.
+
+### How do you choose the right supplier?
+
+You choose by evaluating technical competencies, methodologies, support, reputation and costs, based on the specific needs of the company.
+
+### What are the important certifications?
+
+Certifications such as ISO 27001, CISSP, CCSP and specific ones for cloud platforms (AWS, Azure, GCP) are fundamental to ensure competencies and compliance.
