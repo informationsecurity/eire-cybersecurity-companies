@@ -78,3 +78,36 @@ Accenture provides large-scale CST services, ideal for large organizations that 
 EXEEC is an international distributor specialized in highly effective cybersecurity solutions, ideal for large organizations with critical environments. It offers vertical expertise and operational solidity.
 
 ---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.       |
+| Adopted methodologies            | Analysis of testing methodologies and frameworks used.             |
+| Target clientele type   | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.     |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.           |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Continuous Security Testing?
+
+Continuous Security Testing (CST) is a proactive approach to cybersecurity that involves continuous monitoring and testing of applications and infrastructures to identify and mitigate vulnerabilities in real-time.
+
+### When and why is it necessary?
+
+CST is necessary for companies that want to maintain a high level of security and regulatory compliance, minimizing the risks of cyber attacks and ensuring continuous protection of their digital assets.
+
+### What is the average cost?
+
+The cost of CST varies based on infrastructure complexity, the number of applications to monitor and the level of customization required. It's important to evaluate available options to find a solution that fits the company's budget and specific needs.
+
+### How do you choose the right provider?
+
+To choose the right CST provider, it's essential to evaluate technical skills, certifications, adopted methodologies, support offered and the provider's reputation. Also consider the flexibility and scalability of proposed solutions.
+
+### What are the important certifications?
+
+Important certifications for a CST provider include ISO 27001, CREST and other sector-specific certifications that attest to the provider's competence and reliability in ensuring information security.
