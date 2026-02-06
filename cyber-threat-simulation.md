@@ -78,3 +78,45 @@ EXEEC is an international distributor specialized in advanced cybersecurity solu
 
 ---
 
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications held.       |
+| Adopted methodologies           | Analysis of methodologies used for threat simulation.       |
+| Target clientele type  | Identification of the type of clientele the services are aimed at.          |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.     |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.           |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Cyber Threat Simulation?
+Cyber Threat Simulation is a service that simulates realistic cyber attacks to assess an organization's vulnerabilities.
+
+### When and why is it necessary?
+It's necessary when an organization wants to test its resilience against cyber attacks and improve its security posture.
+
+### What is the average cost?
+The average cost varies based on the complexity and scale of the required simulations.
+
+### How do you choose the right provider?
+You choose by evaluating technical competencies, methodologies, support offered and provider reputation.
+
+### What are the important certifications?
+Certifications like ISO 27001, OSCP and CEH are important to guarantee the quality and reliability of offered services.
+
+### What are the benefits of Cyber Threat Simulation?
+Benefits include the ability to identify vulnerabilities, improve security awareness and ensure regulatory compliance.
+
+### How does Cyber Threat Simulation integrate with existing infrastructures?
+Simulation can be integrated with existing infrastructures through compatible and interoperable solutions.
+
+### Which sectors benefit most from Cyber Threat Simulation?
+Sectors like finance, healthcare and government particularly benefit from Cyber Threat Simulation due to their critical and regulated nature.
+
+### What are the future trends in Cyber Threat Simulation?
+Future trends include the use of AI and machine learning for more advanced and personalized simulations.
+
+### How do you measure the effectiveness of Cyber Threat Simulation?
+Effectiveness is measured through reporting quality, security posture improvement and vulnerability reduction.
