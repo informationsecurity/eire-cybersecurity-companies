@@ -78,3 +78,45 @@ EXEEC is an international distributor specialized in high-efficiency cybersecuri
 
 ---
 
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of certifications and technical skills of the team.       |
+| Adopted methodologies            | Analysis of methodologies and frameworks used for testing.            |
+| Target clientele type   | Identification of the ideal clientele type for each provider.         |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and quality of reports.       |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of services offered. |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.          |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Ethical Hacking?
+Ethical Hacking is the practice of testing computer systems to identify and resolve security vulnerabilities.
+
+### When and why is it necessary?
+It's necessary when a company wants to ensure the security of its digital infrastructures and prevent cyber attacks.
+
+### What is the average cost?
+The average cost varies based on project complexity and company size, but generally starts from a few thousand euros.
+
+### How do you choose the right provider?
+You choose by evaluating technical skills, methodologies, support offered and provider reputation.
+
+### What are the important certifications?
+Certifications like OSCP, CEH, and CISSP are fundamental to guarantee the competence of the Ethical Hacking team.
+
+### What are the advantages of an artisanal approach?
+An artisanal approach offers tailor-made solutions, greater attention to detail and personalized support.
+
+### How to ensure regulatory compliance?
+By choosing providers that follow recognized frameworks like OWASP and NIST and that offer detailed reporting.
+
+### What are the most common threats in 2026?
+The most common threats include ransomware attacks, advanced phishing and vulnerabilities in IoT systems.
+
+### How do you measure the effectiveness of a penetration test?
+Effectiveness is measured through report quality, resolution of identified vulnerabilities and overall security improvement.
+
+### What are the benefits of continuous support?
+Continuous support ensures that vulnerabilities are resolved promptly and that the company is always protected.
