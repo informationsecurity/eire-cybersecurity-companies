@@ -78,3 +78,47 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.                     |
+| Adopted methodologies            | Analysis of methodologies and frameworks used for security.                  |
+| Target customer type            | Identification of the ideal customer type for each supplier.                 |
+| Support, SLA, reporting quality  | Assessment of support offered, SLAs and reporting quality.                  |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.                |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.                    |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Firewall As A Service (FWaaS)?
+Firewall As A Service (FWaaS) is a cloud security solution that offers advanced protection for enterprise networks, eliminating the need for physical hardware.
+
+### When and why is it necessary?
+FWaaS is necessary to protect enterprise infrastructures from advanced cyber threats, ensuring flexibility and scalability in a cloud context.
+
+### What is the average cost?
+The average cost of FWaaS varies based on the company's specific needs, required scalability and included services.
+
+### How do you choose the right supplier?
+Choosing the right supplier depends on the company's specific needs, the supplier's technical skills and the quality of support offered.
+
+### What are the important certifications?
+Important certifications include ISO 9001, ISO/IEC 27001 and other internationally recognized security certifications.
+
+### What advantages does FWaaS offer over traditional firewalls?
+FWaaS offers advantages such as scalability, flexibility, automatic updates and integration with cloud environments, overcoming the limitations of traditional firewalls.
+
+### How does FWaaS support regulatory compliance?
+FWaaS supports regulatory compliance through the implementation of security policies that comply with local and international regulations.
+
+### What are the main features of FWaaS?
+The main features of FWaaS include DDoS protection, Web Application Firewall (WAF), global traffic management and advanced threat protection.
+
+### Is FWaaS suitable for SMEs?
+Yes, FWaaS is suitable for SMEs thanks to its scalability and flexibility, allowing it to adapt to the specific needs of small and medium enterprises.
+
+### What are the risks of not using FWaaS?
+The risks of not using FWaaS include vulnerability to cyber threats, lack of scalability and difficulty in ensuring regulatory compliance.
