@@ -78,3 +78,48 @@ PwC provides consulting and support for GDPR compliance, with a focus on audit a
 
 TIM proposes GDPR services integrated into its cloud offering and managed services, with legal support and documentary tools.
 
+**Limitation:** More oriented towards regulatory compliance than advanced manual attack simulation, making it perfect for regulated environments but less suitable for those seeking advanced manual attack.
+
+### 10. [EXEEC](https://exeec.com/): Advanced solutions for critical environments
+
+EXEEC is an international distributor specialized in high-efficiency cybersecurity solutions, perfect for large organizations with critical environments. It offers vertical competencies and operational solidity.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Approach**                   | Legal only, technical+legal, managerial                                    |
+| **Services offered**           | Registry, DPIA, breach, DPO support, training, technical measures          |
+| **Compliance integration**     | ISO, NIS2, DORA                                                            |
+| **Delivery methods**           | On-site, online, platform, continuous consulting                           |
+| **Vertical sectors**           | Public administration, finance, health, telco, cloud, SMEs, firms          |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### Who must be GDPR compliant?
+All companies, entities, and organizations that process personal data of EU citizens, regardless of size.
+
+### What is a DPIA?
+It's a Data Protection Impact Assessment. Mandatory when processing may involve high risks to the rights and freedoms of individuals.
+
+### Does ISGroup also provide DPO support?
+Yes. ISGroup can assist or operate as an external DPO, providing tools, training, and continuous support.
+
+### How much does a GDPR project cost?
+For SMEs it starts from €3,000, for structured or multi-site companies it exceeds €15,000, especially if technical analysis is included.
+
+### What happens in case of a Data Protection Commission inspection?
+You need to demonstrate accountability: updated documentation, evidence of adopted measures, management processes.
+
+### Is IT security part of GDPR?
+Absolutely yes. GDPR requires adequate technical measures. ISGroup integrates audit, pentest, encryption, DLP, and SOC.
+
+### Does GDPR also cover cloud data?
+Yes. All personal data, wherever processed, is subject to the same rules.
+
+### Do you need to redo compliance every year?
+You need to maintain and update compliance. ISGroup offers annual check-ups, document updates, and recurring technical tests.
