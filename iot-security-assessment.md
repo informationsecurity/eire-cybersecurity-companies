@@ -78,3 +78,55 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Evaluation of technical competencies and team certifications.       |
+| Adopted methodologies            | Analysis of assessment methodologies used.                         |
+| Target clientele type   | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.   |
+| Reputation, use cases, sectors served | Evaluation of reputation, use cases and sectors served.          |
+
+## Frequently Asked Questions (FAQ)
+
+### What is an IoT Security Assessment?
+
+An IoT Security Assessment is a security evaluation process for IoT devices and networks to identify vulnerabilities and threats.
+
+### When and why is it necessary?
+
+It's necessary when implementing IoT devices to ensure security and regulatory compliance, preventing attacks and protecting data.
+
+### What is the average cost?
+
+The average cost varies based on IoT infrastructure complexity and required services, but it's essential to consider the value of protection obtained.
+
+### How do you choose the right supplier?
+
+Choosing the right supplier involves evaluating technical competencies, methodologies, support offered and reputation in the sector.
+
+### What are the important certifications?
+
+Certifications like ISO 27001, OSCP, CEH and CISSP are important to guarantee supplier competence and reliability.
+
+### What are the advantages of a tailor-made approach?
+
+A tailor-made approach offers personalized solutions that adapt to the specific security needs of the customer's IoT infrastructure.
+
+### How to ensure regulatory compliance?
+
+Regulatory compliance is ensured through adoption of recognized standards and consultation with regulatory experts.
+
+### What are the main threats to IoT?
+
+Main IoT threats include DDoS attacks, malware, unauthorized access and device vulnerabilities.
+
+### How does IoT security integrate with other cybersecurity solutions?
+
+IoT security integrates with other cybersecurity solutions through unified platforms that monitor and protect the entire infrastructure.
+
+### What is the role of threat intelligence in IoT security?
+
+Threat intelligence provides information on emerging threats, enabling proactive protection of IoT infrastructures.
