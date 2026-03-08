@@ -78,3 +78,55 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Evaluation of technical competencies and certifications possessed.     |
+| Adopted methodologies            | Analysis of methodologies used to guarantee security.            |
+| Target clientele type   | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.   |
+| Reputation, use cases, sectors served | Evaluation of reputation, use cases and sectors served.         |
+
+## Frequently Asked Questions (FAQ)
+
+### What is an Accredited Laboratory Va?
+
+An Accredited Laboratory Va is a laboratory that has obtained official accreditation from national and regional bodies, guaranteeing compliance with quality and safety standards.
+
+### When and why is it necessary?
+
+It is necessary when requiring guarantee of technical competence and reliability of results, especially in regulated sectors.
+
+### What is the average cost?
+
+The average cost varies based on the complexity of services required and the level of customization of solutions offered.
+
+### How do you choose the right supplier?
+
+You choose by evaluating technical competencies, certifications, reputation and ability to offer tailor-made solutions.
+
+### What are the important certifications?
+
+Important certifications include ISO/IEC 17025, CLIA, CAP and others recognized internationally.
+
+### What is the importance of ISO/IEC 17025 accreditation?
+
+ISO/IEC 17025 accreditation is fundamental to guarantee the competence of testing and calibration laboratories, ensuring reliable results compliant with international standards.
+
+### How to verify a laboratory's accreditation?
+
+A laboratory's accreditation can be verified through official websites of accreditation bodies, such as ACCREDIA.
+
+### What are the advantages of choosing an accredited laboratory?
+
+Advantages include greater reliability of results, regulatory compliance and guarantee of quality and safety.
+
+### How does accreditation influence the quality of results?
+
+Accreditation ensures that laboratories operate according to rigorous standards, guaranteeing precision and accuracy in results.
+
+### What are the sectors that require accredited laboratories?
+
+Sectors that require accredited laboratories include food, pharmaceutical, medical, environmental and many other regulated ones.
