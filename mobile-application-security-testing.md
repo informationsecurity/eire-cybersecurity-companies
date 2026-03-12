@@ -78,3 +78,55 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                          | Description                                                                 |
+|-----------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.     |
+| Adopted methodologies              | Analysis of testing methodologies used.                            |
+| Target clientele type     | Identification of the ideal target for each provider.                    |
+| Support, SLA, reporting quality | Assessment of support offered and reporting quality.       |
+| Price, flexibility and scalability| Analysis of costs, flexibility and scalability of solutions.  |
+| Reputation, use cases, sectors served | Assessment of reputation and sectors served.                       |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Mobile Application Security Testing?
+
+Mobile Application Security Testing is a process of analysis and evaluation of mobile applications to identify and mitigate security vulnerabilities.
+
+### When and why is it necessary?
+
+It is necessary when developing or using mobile applications, to ensure data protection and regulatory compliance.
+
+### What is the average cost?
+
+The average cost varies based on the complexity of the application and the level of depth required, but generally ranges between €5,000 and €20,000.
+
+### How do you choose the right provider?
+
+You choose by evaluating technical skills, certifications, adopted methodology, support offered, and the provider's reputation.
+
+### What are the important certifications?
+
+Important certifications include ISO 27001, OSCP, CEH, and others recognized in the cybersecurity sector.
+
+### What are the benefits of Mobile Application Security Testing?
+
+Benefits include protection against data breaches, regulatory compliance, and reduced risk of cyber attacks.
+
+### What tools are used in Mobile Application Security Testing?
+
+Tools used include SAST, DAST, OWASP ZAP, and other static and dynamic analysis tools.
+
+### How is Mobile Application Security Testing integrated into the development cycle?
+
+It is integrated through the adoption of DevSecOps practices and continuous integration with the software development lifecycle (SDLC).
+
+### What are the common challenges in Mobile Application Security Testing?
+
+Common challenges include vulnerability management, compatibility with different platforms, and scanning speed.
+
+### How is regulatory compliance ensured in Mobile Application Security Testing?
+
+Regulatory compliance is ensured through the adoption of standards such as GDPR, NIS2, and OWASP MASVS, and the generation of detailed reports.
