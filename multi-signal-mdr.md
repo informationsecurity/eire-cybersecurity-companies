@@ -78,3 +78,55 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Evaluation of certifications and technical competencies of the provider. |
+| Adopted methodologies            | Analysis of security methodologies used.                          |
+| Target clientele type   | Identification of the ideal target for each provider.                     |
+| Support, SLA, reporting quality | Evaluation of support offered and reporting quality.        |
+| Price, flexibility and scalability | Analysis of costs and flexibility of offered solutions.             |
+| Reputation, use cases, sectors served | Evaluation of reputation and sectors served by the provider.            |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Multi-Signal MDR?
+
+Multi-Signal MDR is a Managed Detection and Response service that integrates signals from different sources to detect and respond to cyber threats proactively.
+
+### When and why is it necessary?
+
+It's necessary when a company wants to protect its infrastructures from advanced threats and ensure operational continuity, especially in regulated sectors.
+
+### What is the average cost?
+
+The average cost varies based on infrastructure complexity and required services, but is generally competitive compared to the benefits offered.
+
+### How do you choose the right provider?
+
+Choosing the right provider depends on factors such as technical competencies, solution flexibility, support offered, and provider reputation.
+
+### What are the important certifications?
+
+Important certifications include ISO 9001, ISO/IEC 27001, and others recognized in the cybersecurity field.
+
+### What are the benefits of Multi-Signal MDR?
+
+Multi-Signal MDR offers comprehensive protection against cyber threats, combining continuous monitoring, behavioral analysis, and immediate incident response.
+
+### How to integrate Multi-Signal MDR with existing systems?
+
+Many providers offer solutions that integrate easily with existing security systems, reducing operational complexity.
+
+### What are the main threats addressed by Multi-Signal MDR?
+
+Main threats include ransomware attacks, advanced phishing, and network intrusions.
+
+### How to ensure regulatory compliance with Multi-Signal MDR?
+
+Multi-Signal MDR helps ensure regulatory compliance through detailed reporting and continuous threat monitoring.
+
+### What are the future trends in the Multi-Signal MDR sector?
+
+Future trends include the increasing use of AI and machine learning to improve threat detection and incident response.
