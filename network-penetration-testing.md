@@ -78,3 +78,36 @@ Capgemini offers penetration testing services integrated with digital transforma
 EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. Ideal for large organizations with critical environments.
 
 ---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and team certifications.       |
+| Adopted methodologies           | Analysis of penetration testing methodologies used.                |
+| Target clientele type  | Identification of the ideal target for each provider.                    |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and report quality.       |
+| Price, flexibility and scalability | Analysis of costs, flexibility and service scalability.         |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.           |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Network Penetration Testing?
+
+Network Penetration Testing is a security assessment process that simulates cyber attacks to identify and exploit network vulnerabilities.
+
+### When and why is it necessary?
+
+It's necessary when a company wants to assess and improve its network security, especially in the presence of new threats or infrastructure changes.
+
+### What is the average cost?
+
+The average cost varies based on test complexity and infrastructure size, but is generally proportional to the security value obtained.
+
+### How do you choose the right provider?
+
+Choosing the right provider involves evaluating technical skills, methodologies, support offered and reputation in the sector.
+
+### What are the important certifications?
+
+Certifications like OSCP, CEH, CISSP and CREST are indicators of competence and professionalism in the penetration testing field.
