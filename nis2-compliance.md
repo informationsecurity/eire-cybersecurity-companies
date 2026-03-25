@@ -78,3 +78,26 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 
 | Criterion                        | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications held by providers. |
+| Adopted methodologies            | Analysis of methodologies used to ensure NIS2 compliance.      |
+| Target clientele type   | Identification of the type of clientele targeted by the services offered. |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions offered. |
+| Reputation, use cases, sectors served | Assessment of provider reputation, use cases and sectors served. |
+
+## Frequently Asked Questions (FAQ)
+
+### What is NIS2 compliance?
+NIS2 compliance refers to adherence to European regulations on network and information systems security, designed to improve the resilience of critical infrastructures.
+
+### When and why is it necessary?
+It is necessary to ensure the protection of critical infrastructures and to avoid legal sanctions. It becomes crucial when managing sensitive data or operating in regulated sectors.
+
+### What is the average cost?
+The cost varies based on infrastructure complexity and required services, but generally includes risk assessments, implementation of security measures and ongoing support.
+
+### How do you choose the right supplier?
+You choose by evaluating technical competencies, certifications, sector experience and the ability to offer personalized and scalable solutions.
+
+### What are the important certifications?
+Important certifications include ISO 27001, SOC2, GDPR and others recognized at European level that guarantee compliance and information security.
