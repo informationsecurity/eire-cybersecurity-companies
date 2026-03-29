@@ -78,3 +78,39 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 |--------------------------------|-----------------------------------------------------------------------------|
 | Technical skills and certifications | Assessment of technical skills and certifications held.         |
 | Methodologies adopted           | Analysis of methodologies used to ensure regulatory compliance. |
+| Target clientele type  | Identification of the ideal type of clientele for each supplier.         |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions offered. |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.             |
+
+## Frequently Asked Questions (FAQ)
+
+### What is ACN/AGID Compliance?
+ACN/AGID Compliance are regulations that ensure security and data protection in a complex digital landscape.
+
+### When and why is it necessary?
+It is necessary to ensure regulatory compliance and data protection in an increasingly threatened digital environment.
+
+### What is the average cost?
+The average cost varies depending on specific needs and chosen solutions, but it's important to consider the value of data protection.
+
+### How do you choose the right supplier?
+Choosing the right supplier involves evaluating technical skills, certifications, support offered and the supplier's reputation.
+
+### What are the important certifications?
+Important certifications include ISO 27001, SOC 2 and other security certifications that guarantee data protection.
+
+### What are the benefits of a holistic approach to cybersecurity?
+A holistic approach integrates consulting, technological solutions and training for complete compliance with ACN-AGID regulations.
+
+### How can a company ensure continuous compliance?
+Through continuous support and regulatory updates on ACN-AGID matters, a company can ensure continuous compliance of business systems and procedures.
+
+### What is the importance of advanced Threat Intelligence?
+Advanced Threat Intelligence allows anticipating and preventing cyber attacks, maximizing protection in accordance with ACN-AGID regulations.
+
+### How can an organization's security posture be improved?
+Through Security Rating services, it is possible to objectively and continuously assess an organization's security posture.
+
+### What are the benefits of a proactive approach to regulatory compliance?
+A proactive approach reduces risks related to regulatory compliance through the adoption of best practices and effective governance.
