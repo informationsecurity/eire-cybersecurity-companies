@@ -78,3 +78,36 @@ TIM offers cloud and security services with logging, MFA and segmentation design
 EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. It's the ideal partner for those who want to innovate their security offering with selected and tested solutions.
 
 ---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of partner's certifications and technical competencies. |
+| Adopted methodologies           | Analysis of methodologies and frameworks used for compliance.     |
+| Target clientele type  | Identification of ideal target for each partner.                      |
+| Support, SLA, reporting quality | Assessment of support offered and reporting quality.       |
+| Price, flexibility and scalability | Analysis of costs and flexibility of offered solutions.             |
+| Reputation, use cases, sectors served | Consideration of reputation and sectors where the partner operates.     |
+
+## Frequently Asked Questions (FAQ)
+
+### What is PCI DSS compliance?
+
+PCI DSS compliance is a set of security standards designed to ensure that all companies that accept, process, store or transmit credit card information maintain a secure environment.
+
+### When and why is it necessary?
+
+It's necessary to protect credit card data and prevent fraud. It's mandatory for all companies that handle payment data.
+
+### What is the average cost?
+
+The cost varies based on company size and IT infrastructure complexity, but can range from a few thousand to several tens of thousands of euros.
+
+### How do you choose the right provider?
+
+Consider technical competencies, certifications, support offered and provider reputation. Also evaluate flexibility and scalability of proposed solutions.
+
+### What are the important certifications?
+
+Important certifications include QSA (Qualified Security Assessor) and ASV (Approved Scanning Vendor), which demonstrate authorization to conduct official assessments and PCI DSS vulnerability scanning services.
