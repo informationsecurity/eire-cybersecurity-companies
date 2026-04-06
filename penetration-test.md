@@ -78,3 +78,30 @@ EXEEC is an international distributor specialized in high-efficiency cybersecuri
 
 ---
 
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Evaluation of certifications and technical skills of the team.       |
+| Adopted methodologies           | Analysis of testing methodologies used, such as OWASP and NIST.             |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs and quality of reports.         |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of services offered. |
+| Reputation, use cases, sectors served | Consideration of provider reputation and sectors in which it operates.       |
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Penetration Test?
+A Penetration Test is a controlled simulation of a cyber attack to identify and correct vulnerabilities in an organization's systems.
+
+### When and why is it necessary?
+It is necessary when you want to evaluate the security of a system, ensure regulatory compliance or improve resilience against cyber threats.
+
+### What is the average cost?
+The average cost varies based on system complexity and test depth, but it's important to request detailed quotes for an accurate estimate.
+
+### How do you choose the right supplier?
+You choose by evaluating technical skills, certifications, methodology, support offered and supplier reputation.
+
+### What are the important certifications?
+Certifications such as OSCP, CEH and CISSP are indicators of competence and professionalism in the field of Penetration Testing.
