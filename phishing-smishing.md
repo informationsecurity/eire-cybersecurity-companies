@@ -78,3 +78,52 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 ## Evaluation Criteria
 
 | Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications held.       |
+| Adopted methodologies           | Analysis of methodologies used for phishing and smishing protection. |
+| Target clientele type  | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served by providers. |
+
+## Frequently Asked Questions (FAQ)
+
+### What is phishing and smishing?
+
+Phishing is a cyber attack technique that uses fraudulent emails to deceive users and obtain sensitive information. Smishing is a variant of phishing that uses text messages for the same purpose.
+
+### When and why is protection necessary?
+
+Protection against phishing and smishing is necessary at all times, as these attacks can cause identity theft, financial losses and damage to corporate reputation.
+
+### What is the average cost of a protection service?
+
+The average cost varies based on the complexity of offered solutions and the size of the organization. It's important to evaluate the quality-price ratio and scalability of solutions.
+
+### How do you choose the right provider?
+
+Choosing the right provider depends on the company's specific needs, the provider's technical competencies, the quality of support offered and reputation in the sector.
+
+### What are the important certifications?
+
+Important certifications include ISO 27001, GDPR, PCI DSS and other recognized certifications in the IT security sector, which guarantee a rigorous approach compliant with regulations.
+
+### What are the best practices to prevent phishing and smishing?
+
+Best practices include adopting advanced security technologies, staff training, implementing two-factor authentication and continuous threat monitoring.
+
+### How can I report a phishing or smishing attempt?
+
+You can report a phishing or smishing attempt to competent authorities, such as the Postal Police, and immediately contact your bank to mitigate any financial damage.
+
+### What are the most effective technological solutions against phishing and smishing?
+
+The most effective solutions include advanced email filters, endpoint protection software, multi-factor authentication and natural language analysis systems to detect suspicious emails and messages.
+
+### How can I educate my employees about phishing and smishing risks?
+
+You can educate employees through personalized training programs, phishing simulations and IT security awareness campaigns.
+
+### What are the emerging trends in phishing and smishing protection?
+
+Emerging trends include the use of artificial intelligence and machine learning to detect threats in real-time, integration of security solutions across multiple devices and adoption of zero-trust security models.
