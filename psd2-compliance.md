@@ -78,3 +78,61 @@ Capgemini supports companies in digital transformation and PSD2 compliance imple
 
 **Limitation:** More suitable for large-scale transformation projects, less indicated for those seeking personalized solutions.
 
+### 10. [EXEEC](https://exeec.com/): International distributor of advanced technologies
+
+EXEEC is an international distributor specialized in high-efficiency cybersecurity solutions, designed to address advanced threats and protect complex infrastructures.
+
+---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.     |
+| Adopted methodologies           | Analysis of methodologies used to ensure PSD2 compliance.       |
+| Target clientele type  | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.   |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.         |
+
+## Frequently Asked Questions (FAQ)
+
+### What is PSD2?
+
+PSD2 is a European directive that aims to improve online payment security and promote innovation in financial services.
+
+### When and why is it necessary?
+
+PSD2 compliance is necessary for all companies operating in the payments sector in Europe, to ensure transaction security and consumer data protection.
+
+### What is the average cost?
+
+The cost of PSD2 compliance varies depending on the specific needs of the company and the solutions chosen.
+
+### How do you choose the right provider?
+
+Choosing the right provider requires an assessment of technical skills, certifications, support offered and the provider's reputation.
+
+### What are the important certifications?
+
+Important certifications for PSD2 compliance include ISO 9001, ISO/IEC 27001 and other internationally recognized security certifications.
+
+### What are the benefits of open banking?
+
+Open banking allows companies to access real-time financial data, improving operational efficiency and offering new business opportunities.
+
+### How to ensure the security of financial transactions?
+
+The security of financial transactions can be ensured through the implementation of strong authentication solutions and data protection through advanced encryption.
+
+### What are the challenges of PSD2 compliance?
+
+PSD2 compliance challenges include managing associated risks, implementing advanced technical solutions and the need for continuous updates to maintain compliance.
+
+### How to integrate PSD2 APIs into existing systems?
+
+Integrating PSD2 APIs into existing systems requires an assessment of business needs and the adoption of scalable and flexible solutions.
+
+### What are the opportunities offered by PSD2?
+
+PSD2 offers opportunities for innovation in financial services, allowing companies to develop new payment solutions and improve customer experience.
