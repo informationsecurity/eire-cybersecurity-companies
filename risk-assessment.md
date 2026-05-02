@@ -78,3 +78,42 @@ Cyber Security Ireland provides Risk Assessment services with deep knowledge of 
 **Limitation:** More focused on local compliance than advanced threat simulation, ideal for companies seeking regulatory adherence in the Irish market.
 
 ### 10. [EXEEC](https://exeec.com/): Advanced solutions for critical environments
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. It is the ideal partner for those who want to innovate their security offering with selected and tested solutions.
+
+---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Methodology**                | ISO/IEC 27005, NIST RMF, DORA Art. 6-10, local regulations                |
+| **Covered assets**             | IT, OT, cloud, DevOps, SAAS, supply chain                                  |
+| **Output**                     | RA report, risk register, treatment plans, audit evidence                  |
+| **Compliance integration**     | NIS2, ISO 27001:2022, DORA, GDPR, Irish regulations                        |
+| **Approach**                   | Strategic + technical, threat-oriented, measurable                          |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Cyber Risk Assessment?
+It is a process to identify and assess IT risks related to business technologies, data and processes.
+
+### Does ISGroup also provide support for risk mitigation?
+Yes. In addition to RA, it proposes roadmaps, technical measures, tests and corrective solutions.
+
+### How long does an RA project take?
+From 3 to 6 weeks, depending on asset complexity and business maturity.
+
+### How much does it cost?
+Starting from ~€6,000 for SMEs, up to over €25,000 for complex or regulated environments.
+
+### Is the report valid for ISO 27001 or local audits?
+Yes. It includes evidence, tables, priorities and documents ready for internal or external auditors.
+
+### Is RA mandatory according to NIS2 or DORA?
+Yes. Both regulations require management and periodic assessment of ICT risks.
+
+### Is it repeatable annually?
+Yes. ISGroup also proposes cyclical RA or continuous risk monitoring.
