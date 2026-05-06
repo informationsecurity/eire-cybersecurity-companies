@@ -78,3 +78,55 @@ TIM verifies and designs secure architectures for public environments, sovereign
 
 **Limitation:** Ideal for those seeking technological innovation, less suitable for those seeking a crafted and personalized approach.
 
+### 10. [EXEEC](https://exeec.com/): Advanced technology distributor for cybersecurity
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. It is the ideal partner for those who want to innovate their security offering with selected, tested and field-ready solutions.
+
+---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Scope**                     | Cloud, hybrid, OT, SaaS, DevOps, legacy                                     |
+| **Framework**                  | Zero Trust, CIS Controls, NIST, ISO 27001                        |
+| **Output**                     | Technical + executive report, diagrams, gap analysis, remediation roadmap    |
+| **Approach**                  | Threat-based, attacker-centric, threat modeling                             |
+| **Integration**               | DevSecOps, cloud-native, compliance                                          |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Secure Architecture Review?
+
+A technical and strategic analysis of an organization's IT/cloud architecture to identify weaknesses, improve security and support compliance.
+
+### Does ISGroup also work on public cloud environments?
+
+Yes. AWS, Azure, GCP, hybrid and cloud-native environments (Kubernetes, Terraform, CI/CD).
+
+### How long does a SAR project last?
+
+From 2 to 5 weeks, based on architectural complexity and available documentation.
+
+### Is the report valid for audits (ISO, DORA)?
+Yes. The ISGroup report is structured to support compliance audits and regulatory requirements.
+
+### What is the difference between SAR and Penetration Testing?
+SAR focuses on architectural design and configuration analysis, while Penetration Testing simulates real attacks on running systems.
+
+### Can SAR be integrated with other security services?
+Yes, SAR can be combined with Red Teaming and Penetration Testing services for a comprehensive security assessment.
+
+### What methodologies are used?
+Methodologies include frameworks like OWASP, NIST and ISO/IEC 27001, ensuring a structured and recognized approach.
+
+### Which sectors can benefit from a Secure Architecture Review?
+All sectors, from large enterprises to SMEs, can benefit from a Secure Architecture Review to improve their security posture.
+
+### How is the effectiveness of a Secure Architecture Review measured?
+Effectiveness is measured through vulnerability reduction, security improvement and regulatory compliance achieved.
+
+### What are the main benefits of a Secure Architecture Review?
+A Secure Architecture Review offers a comprehensive vulnerability assessment, improvement recommendations and ensures regulatory compliance.
