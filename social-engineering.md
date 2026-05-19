@@ -78,3 +78,45 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of team skills and certifications held.       |
+| Adopted methodologies            | Analysis of testing methodologies and frameworks used.            |
+| Target clientele type   | Identification of the ideal client for each provider.                   |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and report quality.         |
+| Price, flexibility and scalability | Analysis of costs, solution flexibility and scalability.     |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors they operate in.     |
+
+## Frequently Asked Questions (FAQ)
+
+- **What is social engineering?**
+  Social engineering is a psychological manipulation technique used to deceive people and obtain confidential information.
+
+- **When and why is it necessary?**
+  It's necessary to test company resilience against social engineering-based attacks and improve employee awareness.
+
+- **What is the average cost?**
+  Cost varies based on test complexity and organization size, but generally starts from a few thousand euros.
+
+- **How do you choose the right provider?**
+  Evaluate technical skills, certifications, methodology, support offered and provider reputation.
+
+- **What are the important certifications?**
+  Certifications like OSCP, CEH and CISSP are indicators of competence in the cybersecurity field.
+
+- **What are the advantages of an ethical approach to social engineering?**
+  An ethical approach ensures legal compliance, protects privacy and improves security awareness without compromising business integrity.
+
+- **How can a company improve its resilience to social engineering?**
+  Through continuous training programs, realistic simulations and adoption of rigorous security policies.
+
+- **What is the role of threat intelligence in social engineering?**
+  Threat intelligence helps understand attacker tactics and personalize business defenses.
+
+- **How does social engineering integrate with other security practices?**
+  It integrates through penetration testing, red teaming and security awareness programs for comprehensive protection.
+
+- **What are the common challenges in social engineering?**
+  Challenges include consent management, privacy protection and continuous updating of defense techniques.
