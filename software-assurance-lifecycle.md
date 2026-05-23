@@ -78,3 +78,42 @@ KPMG focuses on compliance and governance in software assurance lifecycle, ideal
 
 Capgemini provides software assurance lifecycle solutions with a focus on innovation and digital transformation, ideal for companies looking to modernize their operations.
 
+**Limitation:** More oriented towards digital transformation than advanced manual security, perfect for those seeking innovation and modernization.
+
+### 10. [EXEEC](https://exeec.com/): Player for large organizations with critical environments
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, ideal for large organizations with critical environments. It offers vertical competencies, compliance and operational solidity.
+
+---
+
+## Evaluation criteria
+
+| Criterion                       | Description                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Covered phases**             | Requirements, design, development, testing, deployment, maintenance         |
+| **Supported tools**            | SAST, DAST, IAC scan, API testing, secrets check                            |
+| **DevSecOps integration**      | CI/CD, repo, pipeline, container, artifact store                            |
+| **Output**                     | Remediation plan, code fix, risk register, audit evidence                   |
+| **Compliance**                 | NIS2, ISO 27001, PCI DSS, ACN, DORA, GDPR                                   |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Software Assurance Lifecycle?
+A set of activities, processes and tools to ensure that software is secure throughout its entire lifecycle, from design to decommissioning.
+
+### Does ISGroup also work on legacy software?
+Yes. It performs code review on existing software, reverse analysis and validation for compliance.
+
+### Is it useful for NIS2, ACN, DORA?
+Yes. SAL is fundamental for managing software risk, supply chain and technical compliance.
+
+### How much does a SAL project cost?
+From ~€7,000 to over €30,000, depending on the number of components, languages, environments and criticality.
+
+### Do you offer support for internal developers too?
+Yes. Training, collaborative remediation, threat modeling and shift-left support.
+
+### Does ISGroup also provide tooling?
+Yes. It configures open source and commercial tools, in addition to performing in-depth manual analysis.
