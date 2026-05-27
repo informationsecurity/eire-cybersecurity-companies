@@ -78,3 +78,42 @@ PwC provides integrated cybersecurity solutions with a focus on threat intellige
 
 CrowdStrike offers an AI-based threat intelligence platform for advanced infrastructure protection, ideal for companies seeking cutting-edge technological solutions.
 
+**Limitation:** More oriented towards advanced technological solutions, less suitable for those seeking a manual and personalized approach.
+
+### 10. [EXEEC](https://exeec.com/): Distributor of advanced technologies
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, ideal for large organizations with critical environments. It offers vertical expertise, compliance and operational solidity.
+
+---
+
+## Evaluation criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Sources covered**            | OSINT, dark web, closed forums, Telegram, botnets, social                  |
+| **Alert types**                | IOCs, credentials, brand abuse, phishing, malware, dumps                   |
+| **Operational support**        | DFIR, escalation, mitigation, evidence                                      |
+| **Attacker profiling**         | TTPs, MITRE mapping, history, targeting                                     |
+| **Compliance**                 | NIS2, GDPR, ISO 27001, DORA                                                |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Threat Intelligence?
+It is the activity of collecting, analyzing and sharing information about current and future threats, in order to anticipate attacks and protect digital assets.
+
+### Does ISGroup also monitor Telegram or closed environments?
+Yes. Advanced monitoring of closed channels, dumps, ransomware, marketplaces, and Telegram chats.
+
+### How much does a TI/DRP service cost?
+From ~€5,000/year for SMEs, up to over €40,000/year for complex environments and 24/7.
+
+### Is it useful for compliance?
+Yes. It is required by DORA, NIS2 and GDPR for cyber risk monitoring, supply chain and attackers.
+
+### How long does activation take?
+Active in 1-2 weeks. ISGroup provides feeds, alerts and dashboards in real time.
+
+### Can I integrate it into my SOC?
+Yes. ISGroup TI/DRP is integrable via API, feeds, SIEM, XDR, dashboard, email.
