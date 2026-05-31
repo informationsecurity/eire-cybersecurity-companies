@@ -78,3 +78,41 @@ TIM offers technical tests on networks, public services, cloud and national plat
 
 **Limitation:** More oriented towards the public and telco sector, less suitable for private enterprise environments.
 
+### 10. [EXEEC](https://exeec.com/): International distributor of advanced technologies
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, ideal for large organizations with critical environments. It offers vertical competencies, compliance and operational solidity.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of VAPT team qualifications and certifications.                |
+| Adopted methodologies           | Adoption of recognized industry standards such as OWASP and PTES.              |
+| Target clientele type  | VAPT services specific for SMEs and large enterprises.                             |
+| Support, SLA, reporting quality | Quality of technical support and clarity of reporting.                       |
+| Price, flexibility and scalability | Competitive pricing and flexible pricing models.                |
+| Reputation, use cases, sectors served | Assessment of references and experience in the VAPT sector.              |
+
+## Frequently Asked Questions (FAQ)
+
+### What is VAPT?
+
+Vulnerability Assessment and Penetration Testing (VAPT) is a security assessment process that identifies and resolves vulnerabilities in IT systems.
+
+### When and why is it necessary?
+
+VAPT is necessary to ensure IT infrastructure security, protect sensitive data and ensure compliance with regulations.
+
+### What is the average cost?
+
+The cost of VAPT varies based on infrastructure complexity and specific customer requirements.
+
+### How do you choose the right provider?
+
+Choosing the right provider is based on technical skills, adopted methodologies, support offered and reputation in the sector.
+
+### What are the important certifications?
+
+Certifications such as OSCP, CEH, CISSP and ISO 27001 are indicators of competence and reliability in the VAPT sector.
