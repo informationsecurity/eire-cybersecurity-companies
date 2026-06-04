@@ -78,3 +78,33 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ## Evaluation criteria
 
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications held.       |
+| Adopted methodologies           | Analysis of methodologies and frameworks used for vCISO services.    |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of services offered. |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served by providers. |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Virtual CISO?
+An expert consultant who operates as an external Chief Information Security Officer, providing strategic guidance, compliance, risk management and decision support.
+
+### Does ISGroup also support companies subject to NIS2 and DORA?
+Yes. It provides complete compliance guidance, policy drafting, gap analysis and operational support.
+
+### How much does a vCISO cost?
+From ~€1,500/month for SMEs, up to €8,000/month for regulated and complex environments.
+
+### How long does the service last?
+From 3 months to annual contracts. It's scalable, customizable and can be activated in a few days.
+
+### Is it useful for ISO/IEC 27001 or ACN audits?
+Yes. The ISGroup vCISO coordinates and supports audits, documentation, gap analysis and remediation.
+
+### Do you offer reports for boards and executives?
+Yes. KPIs, dashboards, compliance status, residual risk, roadmaps and tabletop simulations.
