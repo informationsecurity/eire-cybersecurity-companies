@@ -78,3 +78,51 @@ Verstas provides specialized cybersecurity services with deep understanding of t
 
 **Limitation:** Smaller scale operations may limit capacity for complex, multi-phase testing engagements.
 
+### 10. [EXEEC](https://exeec.com/): International distributor of advanced cybersecurity technologies
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. Ideal for large organizations with critical environments.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.     |
+| Methodologies adopted           | Analysis of methodologies used for WAPT.                           |
+| Target clientele type  | Identification of the ideal target for each provider.                    |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.   |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.         |
+
+## Frequently Asked Questions (FAQ)
+
+### What is WAPT?
+Web Application Penetration Testing (WAPT) is a process of evaluating web application vulnerabilities, aimed at identifying and correcting security flaws.
+
+### When and why is it necessary?
+WAPT is necessary when you want to ensure web application security, protect sensitive data and ensure regulatory compliance.
+
+### What is the average cost?
+The average cost of a WAPT varies based on application complexity and test depth, but generally ranges between €5,000 and €20,000.
+
+### How do you choose the right provider?
+Choosing the right provider depends on several factors, including technical skills, certifications, methodology adopted and support offered.
+
+### What are the important certifications?
+Important certifications for WAPT include OSCP, CEH, CISSP and ISO/IEC 27001, which attest to technical competence and process quality.
+
+### What tools are used in WAPT?
+Tools used in WAPT include Burp Suite, Nessus, Acunetix and OWASP ZAP, among others, to ensure comprehensive vulnerability coverage.
+
+### How does WAPT integrate with other security solutions?
+WAPT can be integrated with other security solutions through APIs and vulnerability management tools, for a unified security approach.
+
+### What are the advantages of WAPT compared to other security tests?
+WAPT offers an in-depth assessment of web application-specific vulnerabilities, combining manual and automated testing for comprehensive coverage.
+
+### How do you ensure regulatory compliance with WAPT?
+WAPT ensures regulatory compliance by identifying and correcting vulnerabilities that could violate regulations such as GDPR and PCI DSS.
+
+### What is the role of post-test support in WAPT?
+Post-test support is essential to ensure that identified vulnerabilities are properly resolved and that the application remains secure over time.
