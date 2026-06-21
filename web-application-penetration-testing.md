@@ -78,3 +78,42 @@ PwC provides strategic consulting and integrated security solutions, with a stro
 Synopsys offers application security solutions with a strong focus on DevSecOps and continuous integration.
 
 **Limitation:** More oriented towards DevSecOps integration, less suitable for those seeking manual and personalized tests.
+
+### 10. [EXEEC](https://exeec.com/): Distribution of advanced security technologies
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, ideal for large organizations with critical environments. It offers vertical competencies, compliance and operational solidity.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of certifications and technical skills of the team.       |
+| Adopted methodologies           | Analysis of methodologies used to ensure complete and reliable tests. |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of pricing models and flexibility of offered solutions. |
+| Reputation, use cases, sectors served | Assessment of provider reputation and sectors in which it operates.       |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Web Application Penetration Testing?
+
+Web Application Penetration Testing is a process of analyzing web application vulnerabilities to identify and correct security flaws.
+
+### When and why is it necessary?
+
+It is necessary when you want to ensure the security of web applications against cyber attacks, especially in regulated environments.
+
+### What is the average cost?
+
+The average cost varies based on test complexity and specific customer requirements, but generally adapts to different budgets.
+
+### How do you choose the right provider?
+
+You choose by evaluating technical skills, certifications, adopted methodologies and provider reputation.
+
+### What are the important certifications?
+
+Important certifications include OSCP, CEH, CISSP and others internationally recognized in the cybersecurity sector.
