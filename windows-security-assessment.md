@@ -78,3 +78,38 @@ PwC specializes in compliance and governance, offering Windows Security Assessme
 Microsoft offers security solutions integrated with its products, ideal for companies that extensively use the Microsoft ecosystem.
 
 **Limitation:** Greater focus on native integration and automation, less suitable for those seeking a manual and personalized approach.
+
+### 10. [EXEEC](https://exeec.com/): Advanced technologies for critical environments
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures.
+
+---
+
+## Evaluation criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technical approach**         | Manual, attacker-based, escalation path analysis                           |
+| **Components tested**          | Windows Server, Active Directory, M365, Azure AD, GPO, Registry, SID       |
+| **Vulnerabilities detected**   | Kerberoasting, Pass-the-Hash, misconfigurations, stored credentials        |
+| **Output**                     | Technical + executive report, PoC, roadmap, remediation support            |
+| **Compliance**                 | ISO/IEC 27001, GDPR, NIS2, PCI DSS, DORA                                   |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Windows Security Assessment?
+It's an in-depth evaluation of Windows, AD, M365 environment security, aimed at identifying real vulnerabilities and reducing the attack surface.
+
+### Does ISGroup also simulate real attacks?
+Yes. It uses Red Teaming techniques to identify escalation, persistence and lateral movements.
+
+### Is it useful for compliance?
+Yes. It provides technical evidence and roadmaps for ISO 27001, NIS2, GDPR, DORA, PCI DSS.
+
+### How much does it cost?
+From ~€4,000 to over €15,000, based on complexity and domain size.
+
+### How long does the assessment take?
+From 5 to 10 days, with technical sessions, debriefing and post-remediation support.
