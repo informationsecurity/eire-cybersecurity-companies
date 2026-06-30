@@ -78,3 +78,52 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 ## Evaluation Criteria
 
 | Criterion                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.       |
+| Methodologies adopted            | Analysis of security methodologies used.                           |
+| Target clientele type   | Identification of the type of clientele the services are aimed at.          |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.     |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.           |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Wireless Security Monitoring?
+
+Wireless Security Monitoring is a service that allows monitoring and protecting wireless networks from threats and intrusions, ensuring the security of transmitted data.
+
+### When and why is it necessary?
+
+It's necessary when you want to protect wireless networks from unauthorized access and cyber threats, ensuring operational continuity and data protection.
+
+### What is the average cost?
+
+The average cost varies based on network complexity and required services, but usually ranges between €500 and €2000 per month for SMEs.
+
+### How do you choose the right provider?
+
+Choosing the right provider is based on criteria such as technical skills, certifications, support offered, solution flexibility and reputation in the sector.
+
+### What are the important certifications?
+
+Important certifications include ISO 27001, SOC 2, CWNA and CWSP, which attest to the quality and reliability of wireless security services.
+
+### What are the benefits of Wireless Security Monitoring?
+
+Wireless Security Monitoring offers benefits such as proactive network protection, timely threat detection and compliance with security regulations.
+
+### How to integrate Wireless Security Monitoring with other security systems?
+
+Integration occurs through the use of compatible technologies such as SIEM and firewalls, improving the overall view of corporate cybersecurity.
+
+### What are the emerging technologies in Wireless Security Monitoring?
+
+Emerging technologies include the use of AI for threat detection, behavioral analysis and implementation of Zero Trust architectures.
+
+### How to ensure regulatory compliance in Wireless Security Monitoring?
+
+Regulatory compliance is ensured by adopting international security standards and keeping security policies updated in line with current regulations.
+
+### What are the common challenges in Wireless Security Monitoring?
+
+Common challenges include managing advanced threats, integration with existing infrastructures and maintaining regulatory compliance.
